@@ -1,2 +1,2 @@
-# Week 1
- AICTE Green Skills internship week 1 submission
+# Week 1 - 2
+ AICTE Green Skills internship week 1-2 submission
